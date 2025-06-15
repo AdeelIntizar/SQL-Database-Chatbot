@@ -87,12 +87,3 @@ SQL-Database-Chatbot/
 ├── README.md            
 └── .env                 
 ```
-
-
-If you find this project helpful, please give it a ⭐ on GitHub!
-
-For issues and questions, please open an issue in the [GitHub repository](https://github.com/AdeelIntizar/SQL-Database-Chatbot/issues).
-
----
-
-*Built with ❤️ using Python, Streamlit, and LangChain*
